@@ -57,13 +57,18 @@ print score
 
 ```
 Usage of external information:
-Participants may use external sources of information to perform classification for both Subtask A and Subtask B:
+
+    Participants may use external sources of information to perform classification for both Subtask A and Subtask B:
 Intra-forum evidence: from the QatarLiving forum itself. 
-Old threads in the forum may contain enough information to estimate the factuality of the answers in Subtask B.
-You can download an archive with QL threads from here: 
-http://alt.qcri.org/semeval2016/task3/data/uploads/QL-unannotated-data-subtaskA.xml.zip</br>
-Web information: The use of all sources of web information is allowed as participants seem fit. </br>
+
+    Old threads in the forum may contain enough information to estimate the factuality of the answers in Subtask B.
+
+    You can download an archive with QL threads from here: 
+http://alt.qcri.org/semeval2016/task3/data/uploads/QL-unannotated-data-subtaskA.xml.zip
+
+    Web information: The use of all sources of web information is allowed as participants seem fit. 
 For example, to perform factuality classification for Subtask B, participants may query a search engine to fetch relevant documents from the Internet.
-Example uses of such sources are described in https://arxiv.org/pdf/1803.03178.pdf.
+
+    Example uses of such sources are described in https://arxiv.org/pdf/1803.03178.pdf.
 ```
 
