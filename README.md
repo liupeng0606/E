@@ -1,5 +1,5 @@
 # semeval 2019的第一个问题使用集成学习，学习器用的是我以前写的cnn，rnn分类器，但是出现了错误，问了学长，学长也解决不了
-## ```
+```
 
 clf_cnn = KerasClassifier(build_fn=create_cnn_model,batch_size=32, nb_epoch=10)
 clf_rnn = KerasClassifier(build_fn=create_bilstm_attention_model,nb_epoch=10, batch_size=32)
