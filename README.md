@@ -29,7 +29,7 @@ Traceback (most recent call last):
     y = column_or_1d(y, warn=True)
   File "/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py", line 788, in column_or_1d
     raise ValueError("bad input shape {0}".format(shape))
-ValueError: bad input shape (1, 2)
+ValueError: bad input shape (1, 4)
 
 Process finished with exit code 1
 ```
